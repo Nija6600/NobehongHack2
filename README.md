@@ -18,7 +18,7 @@ Shows console info (CPU key, DVD key, kernel version, fuse count) and lets you s
 3. Launch Rock Band Blitz and load the save from storage
 4. The exploit fires automatically — wait for the payload to load
 
-## Setup — ABadAvatar (no game needed)
+## Setup — ABadAvatar (no game needed, slower than Bad Update)
 
 1. Copy everything inside the `ABadAvatar` folder to the **root of your USB drive**
 2. Make sure your console has fully animated avatars installed (not grey silhouettes)
