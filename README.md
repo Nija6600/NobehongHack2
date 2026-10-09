@@ -2,9 +2,11 @@
 
 Custom payload for the [Bad Update](https://github.com/grimdoomer/Xbox360BadUpdate) exploit on dashboard **17559**. Uses an improved exploit version that is faster and more reliable than normal Bad Update. Also supports [ABadAvatar](https://github.com/shutterbug2000/ABadAvatar) — no game needed.
 
-Shows console info (CPU key, DVD key, kernel version, fuse count) and lets you save it to USB.
+Shows console info (CPU key, DVD key, kernel version, fuse count) and lets you save it to USB. Ring of light stays lit while the payload is running.
 
 ![Hacked by nobehong](screenshot.png)
+
+![Ring of light](ringlights.webp)
 
 ## What you need
 
